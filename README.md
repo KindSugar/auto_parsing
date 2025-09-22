@@ -42,7 +42,8 @@
 7. Скрипт выведет список всех моделей Toyota, найденных в файле `avtovoz_cars.xlsx`.  Если марка не найдена, будет выведено соответствующее сообщение.
 
 ## Пример использования
-<img width="975" height="510" alt="Image 4" src="https://github.com/user-attachments/assets/08f75b33-03d1-48f5-9c63-24a8f8e51125" />
+<img width="675" height="210" alt="Image 4" src="https://github.com/user-attachments/assets/08f75b33-03d1-48f5-9c63-24a8f8e51125" />
+<img width="677" height="209" alt="Image 2" src="https://github.com/user-attachments/assets/a0773f96-fb15-412f-a9dc-b69543371e91" />
 
 
 
