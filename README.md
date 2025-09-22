@@ -64,8 +64,6 @@
 
 ## Структура проекта
 
-
-.
 ├── search_cars.py      # Основной скрипт Python
 └── avtovoz_cars.xlsx   # Пример файла Excel с данными
 └── README.md           # Этот файл
